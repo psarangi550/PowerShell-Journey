@@ -59,5 +59,6 @@
 
     ```
 
-
+- we can use the statemnent  with `notcontains` in the similar fashion of how we use the `contains` operator 
 - we can use the `Get-Help about_compairsion_operator -ShowWindow` to see all list of compairion operator
+- 

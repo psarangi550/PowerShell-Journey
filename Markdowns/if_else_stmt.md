@@ -20,9 +20,28 @@
 - we can `store` the value of `if else return value` to a particular variable as `$variable=if($true){1}else{2}`
 - we can use those variables as `$variable ` in this case
 
+```
+    [int]$var1=Read-Host "Enter a Number"
+    $result=if ($var1 -gt 10){Write-Host $var1}else{Write-Error "Number is not a valid number"}
+    Write-Host $result
+```
 
 
 #### How to use the Switch Statements in Powershell script
-- switch statement can be considered as the `series of if statement`
+- switch statement can be considered as the `series of if statement` or `series of elseif statements`
 - using the `switch statement` we can verify the `variable or an expression against multiple condition`
 - if none of the condition matching then `code` in the  `default` block will get executed
+
+```
+    [int]$var1=Read-Host "Provide an Integer Number"
+
+    switch ($var1) {
+        10 {
+            Write-Host "Number is under 10 and 100 "
+        }
+        Default {
+            Write-Host "Number Not under 10 and 100"
+        }
+}
+
+```

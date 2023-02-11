@@ -17,3 +17,9 @@
 # else{
 #     Write-Output "False"
 # }
+
+# Srtoring the value of the if else to a variabe 
+
+[int]$var1=Read-Host "Enter a Number"
+$result=if ($var1 -gt 10){Write-Host $var1}else{Write-Error "Number is not a valid number"}
+Write-Host $result
