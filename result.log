@@ -1,0 +1,26 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20230214113754
+Username: PRATIKPC\psara
+RunAs User: PRATIKPC\psara
+Configuration Name: 
+Machine: PRATIKPC (Microsoft Windows NT 10.0.22621.0)
+Host Application: powershell -ExecutionPolicy ByPass -File c:\Users\psara\Downloads\powershell_sprint_must\Script\tempCodeRunnerFile.ps1
+Process ID: 23752
+PSVersion: 5.1.22621.963
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.22621.963
+BuildVersion: 10.0.22621.963
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is .\result.log
+150
+50
+the result of addtion operation isthe result of substraction operation is
+**********************
+Windows PowerShell transcript end
+End time: 20230214113754
+**********************

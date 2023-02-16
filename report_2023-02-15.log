@@ -1,0 +1,410 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20230215063011
+Username: PRATIKPC\psara
+RunAs User: PRATIKPC\psara
+Configuration Name: 
+Machine: PRATIKPC (Microsoft Windows NT 10.0.22621.0)
+Host Application: powershell -ExecutionPolicy ByPass -File c:\Users\psara\Downloads\powershell_sprint_must\Script\config.ps1
+Process ID: 44256
+PSVersion: 5.1.22621.963
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.22621.963
+BuildVersion: 10.0.22621.963
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is .\report_2023-02-15.log
+System.Diagnostics.Process (powershell_ise) System.Diagnostics.Process (powershell_ise)
+**********************
+Windows PowerShell transcript end
+End time: 20230215063011
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20230215063158
+Username: PRATIKPC\psara
+RunAs User: PRATIKPC\psara
+Configuration Name: 
+Machine: PRATIKPC (Microsoft Windows NT 10.0.22621.0)
+Host Application: powershell -ExecutionPolicy ByPass -File c:\Users\psara\Downloads\powershell_sprint_must\Script\tempCodeRunnerFile.ps1
+Process ID: 25128
+PSVersion: 5.1.22621.963
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.22621.963
+BuildVersion: 10.0.22621.963
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is .\report_2023-02-15.log
+
+Handles  NPM(K)    PM(K)      WS(K)     CPU(s)     Id  SI ProcessName
+-------  ------    -----      -----     ------     --  -- -----------
+   1198      62   221672      90536       4.20  25720   1 powershell_ise
+    609      48   167388      20652       3.92  37544   1 powershell_ise
+**********************
+Windows PowerShell transcript end
+End time: 20230215063158
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20230215081431
+Username: PRATIKPC\psara
+RunAs User: PRATIKPC\psara
+Configuration Name: 
+Machine: PRATIKPC (Microsoft Windows NT 10.0.22621.0)
+Host Application: powershell -ExecutionPolicy ByPass -File c:\Users\psara\Downloads\powershell_sprint_must\Script\tempCodeRunnerFile.ps1
+Process ID: 34840
+PSVersion: 5.1.22621.963
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.22621.963
+BuildVersion: 10.0.22621.963
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is .\report_2023-02-15.log
+
+Status   Name               DisplayName
+------   ----               -----------
+Running  AarSvc_5786e       AarSvc_5786e
+Running  AdobeARMservice    Adobe Acrobat Update Service
+Stopped  AexampleService    Aexample Service
+Stopped  AJRouter           AllJoyn Router Service
+Stopped  ALG                Application Layer Gateway Service
+Running  AppHostSvc         Application Host Helper Service
+Stopped  AppIDSvc           Application Identity
+Running  Appinfo            Application Information
+Stopped  AppReadiness       App Readiness
+Running  AppXSvc            AppX Deployment Service (AppXSVC)
+Running  AudioEndpointBu... Windows Audio Endpoint Builder
+Running  Audiosrv           Windows Audio
+Stopped  autotimesvc        Cellular Time
+Stopped  AxInstSV           ActiveX Installer (AxInstSV)
+Stopped  BcastDVRUserSer... BcastDVRUserService_5786e
+Running  BDESVC             BitLocker Drive Encryption Service
+Running  BFE                Base Filtering Engine
+Running  BITS               Background Intelligent Transfer Ser...
+Running  BluetoothUserSe... BluetoothUserService_5786e
+Running  BrokerInfrastru... Background Tasks Infrastructure Ser...
+Stopped  Browser            Computer Browser
+Running  BTAGService        Bluetooth Audio Gateway Service
+Running  BthAvctpSvc        AVCTP service
+Running  bthserv            Bluetooth Support Service
+Stopped  c2wts              Claims to Windows Token Service
+Running  camsvc             Capability Access Manager Service
+Stopped  CaptureService_... CaptureService_5786e
+Running  cbdhsvc_5786e      cbdhsvc_5786e
+Running  CDPSvc             Connected Devices Platform Service
+Running  CDPUserSvc_5786e   CDPUserSvc_5786e
+Running  CertPropSvc        Certificate Propagation
+Running  ClickToRunSvc      Microsoft Office Click-to-Run Service
+Stopped  ClipSVC            Client License Service (ClipSVC)
+Running  com.docker.service Docker Desktop Service
+Running  COMSysApp          COM+ System Application
+Stopped  ConsentUxUserSv... ConsentUxUserSvc_5786e
+Running  CoreMessagingRe... CoreMessaging
+Running  cplspcon           Intel(R) Content Protection HDCP Se...
+Stopped  CredentialEnrol... CredentialEnrollmentManagerUserSvc_...
+Running  CryptSvc           Cryptographic Services
+Stopped  DCIService         DCIService
+Running  DcomLaunch         DCOM Server Process Launcher
+Stopped  dcsvc              dcsvc
+Stopped  defragsvc          Optimize drives
+Stopped  DeviceAssociati... DeviceAssociationBrokerSvc_5786e
+Running  DeviceAssociati... Device Association Service
+Running  DeviceInstall      Device Install Service
+Stopped  DevicePickerUse... DevicePickerUserSvc_5786e
+Running  DevicesFlowUser... DevicesFlowUserSvc_5786e
+Running  DevQueryBroker     DevQuery Background Discovery Broker
+Running  Dhcp               DHCP Client
+Stopped  diagnosticshub.... Microsoft (R) Diagnostics Hub Stand...
+Stopped  diagsvc            Diagnostic Execution Service
+Running  DiagTrack          Connected User Experiences and Tele...
+Running  DispBrokerDeskt... Display Policy Service
+Running  DisplayEnhancem... Display Enhancement Service
+Stopped  DmEnrollmentSvc    Device Management Enrollment Service
+Stopped  dmwappushservice   Device Management Wireless Applicat...
+Running  Dnscache           DNS Client
+Running  DolbyDAXAPI        Dolby DAX API Service
+Running  DoSvc              Delivery Optimization
+Stopped  dot3svc            Wired AutoConfig
+Running  DPS                Diagnostic Policy Service
+Stopped  DsmSvc             Device Setup Manager
+Running  DsSvc              Data Sharing Service
+Running  DusmSvc            Data Usage
+Stopped  EapHost            Extensible Authentication Protocol
+Stopped  edgeupdate         Microsoft Edge Update Service (edge...
+Stopped  edgeupdatem        Microsoft Edge Update Service (edge...
+Running  EFS                Encrypting File System (EFS)
+Stopped  embeddedmode       Embedded Mode
+Stopped  EntAppSvc          Enterprise App Management Service
+Running  esifsvc            Intel(R) Dynamic Tuning service
+Running  ETDService         ELAN Service
+Running  EventLog           Windows Event Log
+Running  EventSystem        COM+ Event System
+Stopped  Fax                Fax
+Stopped  fdPHost            Function Discovery Provider Host
+Stopped  FDResPub           Function Discovery Resource Publica...
+Stopped  fhsvc              File History Service
+Running  FileSyncHelper     FileSyncHelper
+Running  FMAPOService       Fortemedia APO Control Service
+Running  FontCache          Windows Font Cache Service
+Running  FontCache3.0.0.0   Windows Presentation Foundation Fon...
+Running  FrameServer        Windows Camera Frame Server
+Stopped  FrameServerMonitor Windows Camera Frame Server Monitor
+Stopped  GoogleChromeEle... Google Chrome Elevation Service (Go...
+Stopped  gpsvc              Group Policy Client
+Stopped  GraphicsPerfSvc    GraphicsPerfSvc
+Stopped  gupdate            Google Update Service (gupdate)
+Stopped  gupdatem           Google Update Service (gupdatem)
+Running  hidserv            Human Interface Device Service
+Running  HNS                Host Network Service
+Running  HvHost             HV Host Service
+Running  IBMPMSVC           Lenovo PM Service
+Stopped  icssvc             Windows Mobile Hotspot Service
+Running  igccservice        Intel(R) Graphics Command Center Se...
+Running  igfxCUIService2... Intel(R) HD Graphics Control Panel ...
+Running  IKEEXT             IKE and AuthIP IPsec Keying Modules
+Running  ImControllerSer... System Interface Foundation Service
+Running  InstallService     Microsoft Store Install Service
+Stopped  Intel(R) Capabi... Intel(R) Capability Licensing Servi...
+Stopped  Intel(R) TPM Pr... Intel(R) TPM Provisioning Service
+Running  IntelAudioService  Intel(R) Audio Service
+Stopped  InventorySvc       Inventory and Compatibility Apprais...
+Running  iphlpsvc           IP Helper
+Stopped  IpxlatCfgSvc       IP Translation Configuration Service
+Running  Jenkins            Jenkins
+Running  jhi_service        Intel(R) Dynamic Application Loader...
+Running  KeyIso             CNG Key Isolation
+Running  KiteService        KiteService
+Stopped  KtmRm              KtmRm for Distributed Transaction C...
+Running  LanmanServer       Server
+Running  LanmanWorkstation  Workstation
+Running  LenovoSmartStandby Lenovo Smart Standby
+Running  LenovoVantageSe... LenovoVantageService
+Running  lfsvc              Geolocation Service
+Running  LicenseManager     Windows License Manager Service
+Running  LITSSVC            Lenovo Intelligent Thermal Solution...
+Stopped  lltdsvc            Link-Layer Topology Discovery Mapper
+Running  lmhosts            TCP/IP NetBIOS Helper
+Running  LMS                Intel(R) Management and Security Ap...
+Stopped  LPlatSvc           Lenovo Platform Service
+Running  LSM                Local Session Manager
+Stopped  LxpSvc             Language Experience Service
+Stopped  LxssManager        LxssManager
+Stopped  MapsBroker         Downloaded Maps Manager
+Running  McAPExe            McAfee AP Service
+Stopped  McAWFwk            McAfee Activation Service
+Running  mccspsvc           McAfee CSP Service
+Stopped  McpManagementSe... McpManagementService
+Stopped  McSecDashboardS... McSecDashboardService
+Stopped  MessagingServic... MessagingService_5786e
+Stopped  mfefire            McAfee Firewall Core Service
+Running  mfemms             McAfee Service Controller
+Running  mfevtp             McAfee Validation Trust Protection ...
+Stopped  MicrosoftEdgeEl... Microsoft Edge Elevation Service (M...
+Stopped  MixedRealityOpe... Windows Mixed Reality OpenXR Service
+Running  ModuleCoreService  McAfee Module Core Service
+Running  mosquitto          Mosquitto Broker
+Stopped  MozillaMaintenance Mozilla Maintenance Service
+Running  mpssvc             Windows Defender Firewall
+Running  MSDTC              Distributed Transaction Coordinator
+Stopped  MSiSCSI            Microsoft iSCSI Initiator Service
+Stopped  msiserver          Windows Installer
+Running  MSMQ               Message Queuing
+Stopped  NaturalAuthenti... Natural Authentication
+Stopped  NcaSvc             Network Connectivity Assistant
+Running  NcbService         Network Connection Broker
+Stopped  NcdAutoSetup       Network Connected Devices Auto-Setup
+Stopped  Netlogon           Netlogon
+Running  Netman             Network Connections
+Running  netprofm           Network List Service
+Stopped  NetSetupSvc        Network Setup Service
+Stopped  NetTcpPortSharing  Net.Tcp Port Sharing Service
+Running  NgcCtnrSvc         Microsoft Passport Container
+Running  NgcSvc             Microsoft Passport
+Stopped  NlaSvc             Network Location Awareness
+Running  NPSMSvc_5786e      NPSMSvc_5786e
+Running  nsi                Network Store Interface Service
+Running  nvagent            Network Virtualization Service
+Stopped  OfficeSvcManage... OfficeSvcManagerAddons
+Stopped  OneDrive Update... OneDrive Updater Service
+Running  OneSyncSvc_5786e   OneSyncSvc_5786e
+Stopped  p2pimsvc           Peer Networking Identity Manager
+Stopped  p2psvc             Peer Networking Grouping
+Stopped  P9RdrService_5786e P9RdrService_5786e
+Running  PcaSvc             Program Compatibility Assistant Ser...
+Running  PCManager Service  PCManager Service
+Running  PEFService         McAfee PEF Service
+Running  PEMHTTPD           PEM HTTPD
+Stopped  PenService_5786e   PenService_5786e
+Stopped  perceptionsimul... Windows Perception Simulation Service
+Stopped  PerfHost           Performance Counter DLL Host
+Running  pgbouncer          pgbouncer
+Running  PhoneSvc           Phone Service
+Running  PimIndexMainten... PimIndexMaintenanceSvc_5786e
+Stopped  pla                Performance Logs & Alerts
+Running  PlugPlay           Plug and Play
+Stopped  PNRPAutoReg        PNRP Machine Name Publication Service
+Stopped  PNRPsvc            Peer Name Resolution Protocol
+Running  PolicyAgent        IPsec Policy Agent
+Running  postgresql-x64-15  postgresql-x64-15 - PostgreSQL Serv...
+Running  Power              Power
+Stopped  PrintNotify        Printer Extensions and Notifications
+Stopped  PrintWorkflowUs... PrintWorkflowUserSvc_5786e
+Running  ProfSvc            User Profile Service
+Stopped  PushToInstall      Windows PushToInstall Service
+Stopped  QWAVE              Quality Windows Audio Video Experience
+Stopped  RasAuto            Remote Access Auto Connection Manager
+Stopped  RasMan             Remote Access Connection Manager
+Stopped  RemoteAccess       Routing and Remote Access
+Stopped  RemoteRegistry     Remote Registry
+Stopped  RetailDemo         Retail Demo Service
+Running  RmSvc              Radio Management Service
+Running  RpcEptMapper       RPC Endpoint Mapper
+Running  RpcLocator         Remote Procedure Call (RPC) Locator
+Running  RpcSs              Remote Procedure Call (RPC)
+Running  RtkAudioUnivers... Realtek Audio Universal Service
+Running  SamSs              Security Accounts Manager
+Running  SCardSvr           Smart Card
+Stopped  ScDeviceEnum       Smart Card Device Enumeration Service
+Running  Schedule           Task Scheduler
+Stopped  SCPolicySvc        Smart Card Removal Policy
+Stopped  SDRSVC             Windows Backup
+Stopped  seclogon           Secondary Logon
+Running  SecurityHealthS... Windows Security Service
+Stopped  SEMgrSvc           Payments and NFC/SE Manager
+Running  SENS               System Event Notification Service
+Stopped  SensorDataService  Sensor Data Service
+Stopped  SensorService      Sensor Service
+Stopped  SensrSvc           Sensor Monitoring Service
+Stopped  SessionEnv         Remote Desktop Configuration
+Running  SessionSvc         Session Detection
+Running  SgrmBroker         System Guard Runtime Monitor Broker
+Running  SharedAccess       Internet Connection Sharing (ICS)
+Stopped  SharedRealitySvc   Spatial Data Service
+Running  ShellHWDetection   Shell Hardware Detection
+Stopped  shpamsvc           Shared PC Account Manager
+Running  simptcp            Simple TCP/IP Services
+Stopped  smphost            Microsoft Storage Spaces SMP
+Stopped  SmsRouter          Microsoft Windows SMS Router Service.
+Stopped  SNMPTrap           SNMP Trap
+Stopped  spectrum           Windows Perception Service
+Running  Spooler            Print Spooler
+Stopped  sppsvc             Software Protection
+Running  SQLWriter          SQL Server VSS Writer
+Running  SSDPSRV            SSDP Discovery
+Stopped  ssh-agent          OpenSSH Authentication Agent
+Stopped  SstpSvc            Secure Socket Tunneling Protocol Se...
+Running  StateRepository    State Repository Service
+Stopped  StiSvc             Windows Image Acquisition (WIA)
+Running  StorSvc            Storage Service
+Stopped  svsvc              Spot Verifier
+Stopped  swprv              Microsoft Software Shadow Copy Prov...
+Running  SysMain            SysMain
+Running  SystemEventsBroker System Events Broker
+Stopped  TapiSrv            Telephony
+Running  TbtP2pShortcutS... Thunderbolt(TM) Peer to Peer Shortcut
+Running  TeraCopyService... TeraCopy Service
+Stopped  TermService        Remote Desktop Services
+Running  TextInputManage... Text Input Management Service
+Running  Themes             Themes
+Stopped  TieringEngineSe... Storage Tiers Management
+Running  TimeBrokerSvc      Time Broker
+Running  TokenBroker        Web Account Manager
+Running  TPHKLOAD           Lenovo Hotkey Client Loader
+Running  TrkWks             Distributed Link Tracking Client
+Stopped  TroubleshootingSvc Recommended Troubleshooting Service
+Stopped  TrustedInstaller   Windows Modules Installer
+Stopped  tzautoupdate       Auto Time Zone Updater
+Running  UDCService         Universal Device Client Service
+Running  UdkUserSvc_5786e   UdkUserSvc_5786e
+Stopped  uhssvc             Microsoft Update Health Service
+Stopped  UmRdpService       Remote Desktop Services UserMode Po...
+Running  UnistoreSvc_5786e  UnistoreSvc_5786e
+Stopped  upnphost           UPnP Device Host
+Running  UserDataSvc_5786e  UserDataSvc_5786e
+Running  UserManager        User Manager
+Running  UsoSvc             Update Orchestrator Service
+Stopped  VacSvc             Volumetric Audio Compositor Service
+Running  VaultSvc           Credential Manager
+Stopped  VBoxSDS            VirtualBox system service
+Stopped  vds                Virtual Disk
+Running  VMAuthdService     VMware Authorization Service
+Running  vmcompute          Hyper-V Host Compute Service
+Stopped  vmicguestinterface Hyper-V Guest Service Interface
+Stopped  vmicheartbeat      Hyper-V Heartbeat Service
+Stopped  vmickvpexchange    Hyper-V Data Exchange Service
+Stopped  vmicrdv            Hyper-V Remote Desktop Virtualizati...
+Stopped  vmicshutdown       Hyper-V Guest Shutdown Service
+Stopped  vmictimesync       Hyper-V Time Synchronization Service
+Stopped  vmicvmsession      Hyper-V PowerShell Direct Service
+Stopped  vmicvss            Hyper-V Volume Shadow Copy Requestor
+Running  VMnetDHCP          VMware DHCP Service
+Running  VMUSBArbService    VMware USB Arbitration Service
+Running  VMware NAT Service VMware NAT Service
+Stopped  VmwareAutostart... VMware Autostart Service
+Stopped  VSS                Volume Shadow Copy
+Stopped  VSStandardColle... Visual Studio Standard Collector Se...
+Stopped  W32Time            Windows Time
+Stopped  w3logsvc           W3C Logging Service
+Running  W3SVC              World Wide Web Publishing Service
+Running  WaaSMedicSvc       WaaSMedicSvc
+Stopped  WalletService      WalletService
+Stopped  WarpJITSvc         Warp JIT Service
+Running  WAS                Windows Process Activation Service
+Stopped  wbengine           Block Level Backup Engine Service
+Stopped  WbioSrvc           Windows Biometric Service
+Running  WCAssistantService WC Assistant
+Running  Wcmsvc             Windows Connection Manager
+Stopped  wcncsvc            Windows Connect Now - Config Registrar
+Stopped  WdiServiceHost     Diagnostic Service Host
+Running  WdiSystemHost      Diagnostic System Host
+Running  WdNisSvc           Microsoft Defender Antivirus Networ...
+Stopped  WebClient          WebClient
+Running  webthreatdefsvc    Web Threat Defense Service
+Running  webthreatdefuse... webthreatdefusersvc_5786e
+Stopped  Wecsvc             Windows Event Collector
+Stopped  WEPHOSTSVC         Windows Encryption Provider Host Se...
+Stopped  wercplsupport      Problem Reports Control Panel Support
+Stopped  WerSvc             Windows Error Reporting Service
+Stopped  WFDSConMgrSvc      Wi-Fi Direct Services Connection Ma...
+Stopped  WiaRpc             Still Image Acquisition Events
+Running  WinDefend          Microsoft Defender Antivirus Service
+Running  WinHttpAutoProx... WinHTTP Web Proxy Auto-Discovery Se...
+Running  Winmgmt            Windows Management Instrumentation
+Stopped  WinRM              Windows Remote Management (WS-Manag...
+Stopped  wisvc              Windows Insider Service
+Running  WlanSvc            WLAN AutoConfig
+Running  wlidsvc            Microsoft Account Sign-in Assistant
+Stopped  wlpasvc            Local Profile Assistant Service
+Stopped  WManSvc            Windows Management Service
+Stopped  wmiApSrv           WMI Performance Adapter
+Running  WMIRegistration... Intel(R) Management Engine WMI Prov...
+Stopped  WMPNetworkSvc      Windows Media Player Network Sharin...
+Stopped  workfolderssvc     Work Folders
+Stopped  WpcMonSvc          Parental Controls
+Stopped  WPDBusEnum         Portable Device Enumerator Service
+Running  WpnService         Windows Push Notifications System S...
+Running  WpnUserService_... WpnUserService_5786e
+Stopped  wpscloudsvr        WPS Office Cloud Service
+Stopped  WsaService         Windows Subsystem for Android™
+Running  wscsvc             Security Center
+Running  WSearch            Windows Search
+Running  WslService         Windows Subsystem for Linux
+Stopped  wuauserv           Windows Update
+Stopped  WwanSvc            WWAN AutoConfig
+Stopped  XblAuthManager     Xbox Live Auth Manager
+Stopped  XblGameSave        Xbox Live Game Save
+Stopped  XboxGipSvc         Xbox Accessory Management Service
+Stopped  XboxNetApiSvc      Xbox Live Networking Service
+**********************
+Windows PowerShell transcript end
+End time: 20230215081431
+**********************

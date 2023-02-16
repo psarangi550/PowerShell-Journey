@@ -1,0 +1,52 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20230215064037
+Username: PRATIKPC\psara
+RunAs User: PRATIKPC\psara
+Configuration Name: 
+Machine: PRATIKPC (Microsoft Windows NT 10.0.22621.0)
+Host Application: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -NoExit -ExecutionPolicy Unrestricted -Command cd c:\Users\psara\Downloads\powershell_sprint_must\Script ; & c:\Users\psara\Downloads\powershell_sprint_must\Script\config.ps1 
+Process ID: 41692
+PSVersion: 5.1.22621.963
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.22621.963
+BuildVersion: 10.0.22621.963
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is .\report_2023-02-15.log
+
+Handles  NPM(K)    PM(K)      WS(K)     CPU(s)     Id  SI ProcessName
+-------  ------    -----      -----     ------     --  -- -----------
+   1196      62   221632      90524       4.20  25720   1 powershell_ise
+    607      48   167348      20612       3.92  37544   1 powershell_ise
+**********************
+Windows PowerShell transcript end
+End time: 20230215064037
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20230215080941
+Username: PRATIKPC\psara
+RunAs User: PRATIKPC\psara
+Configuration Name: 
+Machine: PRATIKPC (Microsoft Windows NT 10.0.22621.0)
+Host Application: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -NoExit -ExecutionPolicy Unrestricted -Command cd c:\Users\psara\Downloads\powershell_sprint_must\Script ; & c:\Users\psara\Downloads\powershell_sprint_must\Script\using_transcript_module.ps1 
+Process ID: 46992
+PSVersion: 5.1.22621.963
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.22621.963
+BuildVersion: 10.0.22621.963
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is .\report_2023-02-15.log
+Get-Service
+**********************
+Windows PowerShell transcript end
+End time: 20230215080941
+**********************

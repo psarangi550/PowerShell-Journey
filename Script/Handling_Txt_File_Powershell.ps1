@@ -96,4 +96,4 @@
 
 # we can use the Select-String with the `-Path` and `-Pattern` flag as below 
 # $var1="write_file.txt"
-Select-String -Path "*.txt" -Pattern "1$" -CaseSensitive
+# Select-String -Path "*.txt" -Pattern "1$" -CaseSensitive
